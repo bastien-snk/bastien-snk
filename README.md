@@ -112,7 +112,7 @@
   
 ## 📖 To Learn
 
-<p align="left"> 
+<p align="left" height="50%"> 
   
 > **Languages:**
 
