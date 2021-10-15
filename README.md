@@ -1,4 +1,4 @@
-
+<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 <h1 align="center">👋 Hey, I'm Bastien</h1>
 
 
