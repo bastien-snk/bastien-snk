@@ -5,7 +5,7 @@
 
 
 <p align="center">
- • Working on:
+ Working on
  <br>
  <code>
   <a href="https://github.com/LyraMC">
