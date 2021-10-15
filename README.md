@@ -30,7 +30,7 @@ A passionate software & web developer. I would be honoured to offer my services 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootxls&langs_count=10&theme=dracula)](https://github.com/rootxls?tab=repositories)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rootxls&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rootxls&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bsnk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🛠 Skills
