@@ -12,6 +12,13 @@
    <img src="https://avatars.githubusercontent.com/u/76408197?s=200&v=4" alt="lyra-logo" width="40px" height="40px" alt="LyraMC" />
   </a>
  </code>
+ <code>
+  <a href="https://github.com/ArkaneMC">
+   <img src="https://avatars.githubusercontent.com/u/88169444?s=200&v=4" alt="lyra-logo" width="40px" height="40px" alt="LyraMC" />
+  </a>
+ </code>
+ 
+ 
 </p>
 
 ## 🚀 About Me
