@@ -128,6 +128,10 @@
 <a href="https://sass-lang.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 </a> 
+  
+<a href="https://developer.apple.com/swift/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+</a> 
 
   
 > **Database:**
@@ -155,6 +159,10 @@
 
 <a href="https://rubyonrails.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
+</a> 
+  
+<a href="https://reactnative.dev/" target="_blank"> 
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 </a> 
 
 > **Cloud:**
@@ -185,18 +193,6 @@
   
 <a href="https://www.nginx.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-</a> 
-
-  
-> **Mobile:**
-
-  
-<a href="https://reactnative.dev/" target="_blank"> 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.apple.com/swift/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
 </a> 
 
   
