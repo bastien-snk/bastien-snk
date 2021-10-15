@@ -9,7 +9,7 @@
  <br>
  <code>
   <a href="https://github.com/LyraMC">
-   <img class="hover:animate-bounce" src="https://avatars.githubusercontent.com/u/76408197?s=200&v=4" alt="lyra-logo" width="40px" height="40px" alt="LyraMC" />
+   <img class="transform motion-safe:hover:scale-110" src="https://avatars.githubusercontent.com/u/76408197?s=200&v=4" alt="lyra-logo" width="40px" height="40px" alt="LyraMC" />
   </a>
  </code>
  <code>
@@ -17,8 +17,7 @@
    <img src="https://avatars.githubusercontent.com/u/88169444?s=200&v=4" alt="lyra-logo" width="40px" height="40px" alt="LyraMC" />
   </a>
  </code>
- 
- 
+
 </p>
 
 ## 🚀 About Me
