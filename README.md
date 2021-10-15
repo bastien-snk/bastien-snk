@@ -2,9 +2,10 @@
 <h1 align="center">👋 Hey, I'm Bastien</h1>
 
 
-- Working on:
+
 
 <p align="center">
+ • Working on:
  <code>
   <a href="https://github.com/LyraMC">
    <img src="https://avatars.githubusercontent.com/u/76408197?s=200&v=4" alt="lyra-logo" width="40px" height="40px" alt="LyraMC" />
