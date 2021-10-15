@@ -27,34 +27,21 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="20"/> 
 </a> 
 
-
-
 <a href="https://www.gnu.org/software/bash/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="20"/> 
 </a> 
 
-
-
 <a href="https://git-scm.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="20"/> 
-</a> 
-
-
+</a>
 
 <a href="https://www.docker.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="20"/> 
 </a>
 
-
-
 <a href="https://nodejs.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="20"/> 
-</a> 
-
-
-
-> **Languages:**
-
+</a>
 
 <a href="https://www.java.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="20"/> 
@@ -80,10 +67,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="20"/> 
 </a> 
 
-
-> **Mock-up:**
-
-
 <a href="https://www.figma.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="20"/> 
 </a> 
@@ -91,10 +74,6 @@
 <a href="https://www.photoshop.com/en" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="20"/> 
 </a> 
-
-
-> **Database:**
-
 
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="20"/>
@@ -111,10 +90,6 @@
 <a href="https://redis.io" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="20"/> 
 </a> 
-
-
-> **Framework:**
-
 
 <a href="https://reactjs.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="20"/> 
@@ -137,9 +112,6 @@
 
 <p align="left" height="50%"> 
 
-> **Languages:**
-
-
 <a href="https://www.python.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="20"/> 
 </a> 
@@ -156,17 +128,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" height="20"/> 
 </a> 
 
-
-> **Database:**
-
-
 <a href="https://www.postgresql.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="20"/> 
-</a> 
-
-
-> **Framework:**
-
+</a>
 
 <a href="https://angular.io" target="_blank">
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="20"/>
@@ -188,8 +152,6 @@
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="20"/> 
 </a> 
 
-> **Cloud:**
-
 <a href="https://aws.amazon.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="20"/>
 </a>
@@ -198,29 +160,17 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="20"/>
 </a>
 
-
-> **API:**
-
-
 <a href="https://graphql.org" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" height="20"/>
 </a>
 
 <a href="https://postman.com" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="20"/> 
-</a> 
-
-
-> **Servers:**
-
+</a>
 
 <a href="https://www.nginx.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="20"/> 
-</a> 
-
-
-> **Messaging:**
-
+</a>
 
 <a href="https://www.rabbitmq.com" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" height="20"/> 
