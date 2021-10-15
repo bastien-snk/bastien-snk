@@ -13,7 +13,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootxls&langs_count=10&theme=dracula)](https://github.com/rootxls?tab=repositories)
 
+<!-- // TODO
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
 
 ## 🛠 Skills
 
