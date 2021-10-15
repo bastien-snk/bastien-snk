@@ -11,12 +11,12 @@ A passionate software & web developer. I would be honoured to offer my services 
  <br>
  <code>
   <a href="https://github.com/LyraMC">
-   <img class="transform motion-safe:hover:scale-110" src="https://avatars.githubusercontent.com/u/76408197?s=200&v=4" alt="lyra-logo" width="40px" height="40px" alt="LyraMC" />
+   <img class="transform motion-safe:hover:scale-110" src="https://avatars.githubusercontent.com/u/76408197?s=200&v=4" alt="lyra-logo" width="40px" height="40px" title="LyraMC" />
   </a>
  </code>
  <code>
   <a href="https://github.com/ArkaneMC">
-   <img src="https://avatars.githubusercontent.com/u/88169444?s=200&v=4" alt="lyra-logo" width="40px" height="40px" alt="LyraMC" />
+   <img src="https://avatars.githubusercontent.com/u/88169444?s=200&v=4" alt="lyra-logo" width="40px" height="40px" title="ArkaneMC" />
   </a>
  </code>
 </p>
