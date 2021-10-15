@@ -3,11 +3,14 @@
 
 
 - Working on:
-<code>
- <a href="https://github.com/LyraMC">
-  <img src="https://avatars.githubusercontent.com/u/76408197?s=200&v=4" alt="lyra-logo" width="40px" height="40px" alt="LyraMC" />
- </a>
-</code>
+
+<p align="center">
+ <code>
+  <a href="https://github.com/LyraMC">
+   <img src="https://avatars.githubusercontent.com/u/76408197?s=200&v=4" alt="lyra-logo" width="40px" height="40px" alt="LyraMC" />
+  </a>
+ </code>
+</p>
 
 ## 🚀 About Me
 <h3 align="center" style="text-decoration: none;">A passionate software & web developer. I would be honoured to offer my services to answer your project needs. My experience has led me to evolve in a lot of professional environments. I am continuously learning new languages and technologies. I am versatile and can adapt and learn new things according to your needs. I like optimized and clean code, I constantly improve it to gain performance for my clients.</h3>
