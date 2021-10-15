@@ -5,6 +5,11 @@
 <h3 align="center">A passionate software & web developer. I would be honoured to offer my services to answer your project needs. My experience has led me to evolve in a lot of professional environments. I am continuously learning new languages and technologies. I am versatile and can adapt and learn new things according to your needs. I like optimized and clean code, I constantly improve it to gain performance for my clients.</h3>
 
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:/bsnk.tk/)
+[![malt](https://img.shields.io/badge/-Malt-red)](https://www.malt.fr/profile)
+
+
 ## 🛠 Skills
 
 <p align="left"> 
