@@ -9,6 +9,11 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:/bsnk.tk/)
 [![malt](https://img.shields.io/badge/-Malt-red?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.malt.fr/profile)
 
+## 📊 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootxls&langs_count=10&theme=dracula)](https://github.com/rootxls?tab=repositories)
+
+
 
 ## 🛠 Skills
 
@@ -203,8 +208,3 @@
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
 </a> 
 </p>
-
-
-### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootxls&langs_count=10&theme=dracula)](https://github.com/rootxls?tab=repositories)
