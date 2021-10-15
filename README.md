@@ -7,7 +7,7 @@
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:/bsnk.tk/)
-[![malt](https://img.shields.io/badge/-Malt-red)](https://www.malt.fr/profile)
+[![malt](https://img.shields.io/badge/-Malt-red?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.malt.fr/profile)
 
 
 ## 🛠 Skills
