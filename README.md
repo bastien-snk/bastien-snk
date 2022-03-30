@@ -122,6 +122,14 @@ A passionate software & web developer. I would be honoured to offer my services 
 <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="20"/> 
 </a> 
+ 
+<a href="https://postman.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="20"/> 
+</a>
+ 
+ <a href="https://www.rabbitmq.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" height="20"/> 
+</a> 
 </p>
 
 ## 📖 To Learn
@@ -180,15 +188,7 @@ A passionate software & web developer. I would be honoured to offer my services 
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" height="20"/>
 </a>
 
-<a href="https://postman.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="20"/> 
-</a>
-
 <a href="https://www.nginx.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="20"/> 
 </a>
-
-<a href="https://www.rabbitmq.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" height="20"/> 
-</a> 
 </p>
