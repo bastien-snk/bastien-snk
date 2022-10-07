@@ -15,8 +15,8 @@ A passionate software & web developer. I would be honoured to offer my services 
   </a>
  </code>
  <code>
-  <a href="https://github.com/ArkaneMC">
-   <img src="https://avatars.githubusercontent.com/u/88169444?s=200&v=4" alt="lyra-logo" width="40px" height="40px" title="ArkaneMC" />
+  <a href="https://github.com/EldiaMC">
+   <img src="https://avatars.githubusercontent.com/u/104067039?s=200&v=4" alt="eldia-logo" width="40px" height="40px" title="EldiaMC" />
   </a>
  </code>
 </p>
