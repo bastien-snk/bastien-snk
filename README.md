@@ -23,7 +23,7 @@ A passionate software & web developer. I would be honoured to offer my services 
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bsnk.fr/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![malt](https://img.shields.io/badge/-Malt-red?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.malt.fr/profile)
 
 ## 📊 Stats
