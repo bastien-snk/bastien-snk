@@ -10,13 +10,18 @@ A passionate software & web developer. I would be honoured to offer my services 
  Working on
  <br>
  <code>
-  <a href="https://github.com/LyraMC">
-   <img class="transform motion-safe:hover:scale-110" src="https://avatars.githubusercontent.com/u/76408197?s=200&v=4" alt="lyra-logo" width="40px" height="40px" title="LyraMC" />
+  <a href="https://github.com/EldiaMC">
+   <img src="https://avatars.githubusercontent.com/u/104067039?s=200&v=4" alt="eldia-logo" width="40px" height="40px" title="EldiaMC" />
   </a>
  </code>
  <code>
-  <a href="https://github.com/EldiaMC">
-   <img src="https://avatars.githubusercontent.com/u/104067039?s=200&v=4" alt="eldia-logo" width="40px" height="40px" title="EldiaMC" />
+  <a href="https://github.com/EssenCiel">
+   <img class="transform motion-safe:hover:scale-110" src="https://avatars.githubusercontent.com/u/128941531?s=200&v=4" alt="lyra-logo" width="40px" height="40px" title="EssenCiel" />
+  </a>
+ </code>
+ <code>
+  <a href="https://github.com/LyraMC">
+   <img class="transform motion-safe:hover:scale-110" src="https://avatars.githubusercontent.com/u/76408197?s=200&v=4" alt="lyra-logo" width="40px" height="40px" title="LyraMC" />
   </a>
  </code>
 </p>
