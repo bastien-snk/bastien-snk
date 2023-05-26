@@ -35,7 +35,7 @@ A passionate software & web developer. I would be honoured to offer my services 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastien-snk&langs_count=10&theme=dracula)](https://github.com/bastien-snk?tab=repositories)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bastien-snk&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bsnk&layout=compact&theme=dracula)](https://github.com/bastien-snk?tab=repositories)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bsnk&layout=compact&theme=dracula&langs_count=26)](https://github.com/bastien-snk?tab=repositories)
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=bastien-snk&style=flat-square)
 
