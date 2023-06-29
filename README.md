@@ -44,6 +44,16 @@ A passionate software & web developer. I would be honoured to offer my services 
 
 <p align="left"> 
 
+<a href="https://www.python.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="20"/> 
+</a>
+<a href="https://www.postgresql.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="20"/> 
+</a>
+<a href="https://www.djangoproject.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" height="20"/> 
+</a> 
+
 <a href="https://www.linux.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="20"/> 
 </a> 
@@ -114,6 +124,10 @@ A passionate software & web developer. I would be honoured to offer my services 
 
 <a href="https://reactjs.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="20"/> 
+</a>
+
+<a href="https://reactnative.dev/" target="_blank"> 
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="20"/> 
 </a> 
 
 <a href="https://symfony.com" target="_blank"> 
@@ -140,11 +154,6 @@ A passionate software & web developer. I would be honoured to offer my services 
 ## 📖 To Learn
 
 <p align="left" height="50%"> 
-
-<a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="20"/> 
-</a> 
-
 <a href="https://www.ruby-lang.org/en/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" height="20"/> 
 </a> 
@@ -157,17 +166,9 @@ A passionate software & web developer. I would be honoured to offer my services 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" height="20"/> 
 </a> 
 
-<a href="https://www.postgresql.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="20"/> 
-</a>
-
 <a href="https://angular.io" target="_blank">
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="20"/>
 </a>
-
-<a href="https://www.djangoproject.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="20"/> 
-</a> 
 
 <a href="https://nuxtjs.org/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" height="20"/> 
@@ -175,10 +176,6 @@ A passionate software & web developer. I would be honoured to offer my services 
 
 <a href="https://rubyonrails.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" height="20"/> 
-</a> 
-
-<a href="https://reactnative.dev/" target="_blank"> 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="20"/> 
 </a> 
 
 <a href="https://aws.amazon.com" target="_blank">
